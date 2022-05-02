@@ -50,6 +50,4 @@ Over the past few milestones, you've had the opportunity to apply several softwa
 
 Considering all the design and architecture methods, testing practices, and software processes you've encountered---**compare and constrast** how the benefits of the different practices and how they might be useful together.
 
-   UML and scrum-ban amoung others help plan out the project and ensure that everybody on the team has a good idea of what the progress on the project is and are very useful.
-
-
+   UML and scrum-ban amoung others help plan out the project and ensure that everybody on the team has a good idea of what the progress on the project is and are very useful. Testing methods like black box testing was one that I had used the most as it was simply easy to perform where as whte box testing is more indepth and useful when you don't know the outcome, and could be more useful on larger projects as it gives a bit more of an indepth analysis of the system. Agile and waterfall are the two main planning forms and they have their uses depending on the size of the project. For example with this bot project my group used the waterfall model as it was small enough that we didn't have to worry about problems cropping up and could in a way brute force the coding to get it to do what we wanted, where as with agile it has a more step by step approach designed around preventing problems from cropping up and wasting time and money which is super useful for cost extensive projects in the professional world.
