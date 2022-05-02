@@ -50,6 +50,6 @@ Over the past few milestones, you've had the opportunity to apply several softwa
 
 Considering all the design and architecture methods, testing practices, and software processes you've encountered---**compare and constrast** how the benefits of the different practices and how they might be useful together.
 
-    UML and scrum-ban amoung others help plan out the project and ensure that everybody on the team has a good idea of what the progress on the project is and are very useful.
+   UML and scrum-ban amoung others help plan out the project and ensure that everybody on the team has a good idea of what the progress on the project is and are very useful.
 
 
